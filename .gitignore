@@ -1,0 +1,14 @@
+Ignore the Python virtual environment
+backend/venv/
+
+Ignore the file with secret keys
+backend/.env
+
+Ignore Python cache files
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+Ignore macOS specific files
+.DS_Store
